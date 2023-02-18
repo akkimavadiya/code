@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-control{
+    border: 0px;
+    border-radius: 0px;
+    border-bottom: 2px solid hsl(0, 8%, 73%) ;
+}
+.labb{
+    margin-top: 70px;
+    margin-left: -20px;
+}
+
+
+
+.main {
+    background-color: rgb(236, 122, 141);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    width: 200px;
+    
+  }
+.NMAIN{
+    border: 0px;
+    border-radius: 0px;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    margin: left 40PX; ;
+    display: inline-block;
+    margin-left: 5px;
+
+    
+}
+button {
+    margin: 10px;
+  }
+  
+  
+
+  
+  
+ 
+  
+
+
